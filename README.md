@@ -52,43 +52,39 @@ The interface is designed to provide a clean and intuitive user experience while
 
 ### Login Page
 
-![Login Page](https://github.com/user-attachments/assets/login-page-image-url)
+![Login Page](https://github.com/user-attachments/assets/Login_Page)
 
-### Dashboard Overview
+### Full Dashboard
 
-![Dashboard Overview](https://github.com/user-attachments/assets/dashboard-overview-image-url)
+![Full Dashboard](https://github.com/user-attachments/assets/Full_Dashboard)
 
-### Building Utilization Analytics
+### Analytics Charts
 
-![Building Utilization Analytics](https://github.com/user-attachments/assets/building-utilization-image-url)
+![Analytics Charts](https://github.com/user-attachments/assets/Analytics_Charts)
 
-### Occupancy Distribution
+### Occupancy Heatmap
 
-![Occupancy Distribution](https://github.com/user-attachments/assets/occupancy-distribution-image-url)
-
-### Room Occupancy Heatmap
-
-![Room Occupancy Heatmap](https://github.com/user-attachments/assets/occupancy-heatmap-image-url)
+![Occupancy Heatmap](https://github.com/user-attachments/assets/Occupancy_Heatmap)
 
 ### Occupancy Alerts
 
-![Occupancy Alerts](https://github.com/user-attachments/assets/occupancy-alerts-image-url)
+![Occupancy Alerts](https://github.com/user-attachments/assets/Occupancy_Alerts)
 
 ### Building Ranking
 
-![Building Ranking](https://github.com/user-attachments/assets/building-ranking-image-url)
+![Building Ranking](https://github.com/user-attachments/assets/Building_Ranking)
 
 ### Available Rooms
 
-![Available Rooms](https://github.com/user-attachments/assets/available-rooms-image-url)
+![Available Rooms](https://github.com/user-attachments/assets/Available_Rooms)
 
 ### AI Insights
 
-![AI Insights](https://github.com/user-attachments/assets/ai-insights-image-url)
+![AI Insights](https://github.com/user-attachments/assets/AI_Insights)
 
 ### Campus Insights
 
-![Campus Insights](https://github.com/user-attachments/assets/campus-insights-image-url)
+![Campus Insights](https://github.com/user-attachments/assets/Campus_Insights)
 
 ## Future Enhancements
 
