@@ -94,4 +94,5 @@ Future versions of the platform may incorporate predictive occupancy forecasting
 
 Smart Campus Intelligence Hub demonstrates how digital twin technology, cloud computing, and real-time analytics can be integrated to create intelligent monitoring systems for educational institutions. By providing visibility into campus utilization patterns and operational performance, the platform helps support efficient resource management, informed planning, and proactive decision-making.
 
-Built for intelligent campus monitoring, digital twin analytics, and real-time decision support.
+---
+*Built for intelligent campus monitoring, digital twin analytics, and real-time decision support.*
