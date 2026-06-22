@@ -1,4 +1,4 @@
-# Smart Campus Intelligence Hub
+# Smart Campus Intelligence Hub: Real-Time Digital Twin Analytics Platform
 
 Smart Campus Intelligence Hub is a cloud-powered digital twin platform developed to monitor, analyze, and optimize campus operations in real time. The system provides a virtual representation of campus infrastructure by combining occupancy analytics, building utilization monitoring, AI-generated insights, and live event streaming. Through the integration of cloud computing and interactive visualizations, the platform enables administrators to gain operational visibility, improve resource allocation, and respond quickly to changing campus conditions. The project demonstrates how digital twin technology can be applied to educational environments to support intelligent decision-making and efficient facility management.
 
