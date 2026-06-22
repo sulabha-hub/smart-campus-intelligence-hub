@@ -52,39 +52,39 @@ The interface is designed to provide a clean and intuitive user experience while
 
 ### Login Page
 
-![Login Page](https://github.com/user-attachments/assets/Login_Page)
+![Login Page](Login_Page.png)
 
 ### Full Dashboard
 
-![Full Dashboard](https://github.com/user-attachments/assets/Full_Dashboard)
+![Full Dashboard](Full_Dashboard.png)
 
 ### Analytics Charts
 
-![Analytics Charts](https://github.com/user-attachments/assets/Analytics_Charts)
+![Analytics Charts](Analytics_Charts.png)
 
 ### Occupancy Heatmap
 
-![Occupancy Heatmap](https://github.com/user-attachments/assets/Occupancy_Heatmap)
+![Occupancy Heatmap](Occupancy_Heatmap.png)
 
 ### Occupancy Alerts
 
-![Occupancy Alerts](https://github.com/user-attachments/assets/Occupancy_Alerts)
+![Occupancy Alerts](Occupancy_Alerts.png)
 
 ### Building Ranking
 
-![Building Ranking](https://github.com/user-attachments/assets/Building_Ranking)
+![Building Ranking](Building_Ranking.png)
 
 ### Available Rooms
 
-![Available Rooms](https://github.com/user-attachments/assets/Available_Rooms)
+![Available Rooms](Available_Rooms.png)
 
 ### AI Insights
 
-![AI Insights](https://github.com/user-attachments/assets/AI_Insights)
+![AI Insights](AI_Insights.png)
 
 ### Campus Insights
 
-![Campus Insights](https://github.com/user-attachments/assets/Campus_Insights)
+![Campus Insights](Campus_Insights.png)
 
 ## Future Enhancements
 
